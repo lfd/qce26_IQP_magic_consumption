@@ -1,0 +1,18 @@
+name = "JLab"
+uuid = "fa7057c1-9039-475c-b218-7042f712ea50"
+version = "0.1.0"
+authors = ["tom <tom.krueger@oth-regensburg.de>"]
+
+[deps]
+BlockDiagonals = "0a1fb500-61f7-11e9-3c65-f5ef3456f9f0"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Permutations = "2ae35dd2-176d-5d53-8349-f30d82d94d4f"
+QuantumToolbox = "6c2fb7c5-b903-41d2-bc5e-5a7c320b9fab"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+
+[compat]
+BlockDiagonals = "0.2.0"
+LinearAlgebra = "1.12.0"
+Permutations = "0.4.23"
+QuantumToolbox = "0.44.0"
+StatsBase = "0.34.12"
